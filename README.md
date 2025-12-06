@@ -3,7 +3,7 @@
 
 <h1 align = "left">🖐🏻About Me</h1>
 
-- 🧪 Interested in **Software Engineering and AI/ML**   
+- 🧪 Interested in **Software Engineering, AI/ML, Data, and Design**   
 
 
 ## 🌏 Languages
