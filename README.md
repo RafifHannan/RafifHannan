@@ -4,7 +4,7 @@
 <h1 align = "left">🖐🏻About Me</h1>
 
 - 👨🏻‍🎓 Student at **Telkom University**
-- 🧪 Interested in **Software Engineering, AI/ML, Data, and Design**   
+- 🔭 Learn and Interested in **Software Engineering, AI/ML, Data, and Design**   
 
 
 ## 🌏 Languages
